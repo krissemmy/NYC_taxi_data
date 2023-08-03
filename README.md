@@ -37,5 +37,3 @@ with more time, i would implement the following into the project
 - move the project into a Docker image.
 - Set up a Kubernetes cluster to automate the deployment, scaling, and management of the Docker container:
  Use a cloud provider (e.g., Amazon EKS, Google Kubernetes Engine)
-- Define my infrastructure using Terraform: This includes specifying the resources required for my Kubernetes cluster, such as virtual machines, networking, load balancers, and any other necessary components.
-- Provision the infrastructure: Run the Terraform commands to initialize the Terraform configuration, plan the infrastructure changes, and apply the changes to provision the required resources. 
