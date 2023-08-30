@@ -8,7 +8,7 @@ This project focuses on creating a simple data pipeline that will take data from
 - green_taxi_etl.py : Extracts the green taxi service file from the GCS bucket, Transform and clean it, Load into BigQuery
 - yellow_taxi_etl.py : Extracts the yellow taxi service file from the GCS bucket, Transform and clean it, Load into BigQuery
 - taxi_zone_extract.py : Extracts the taxi zone lookup file from the github repo, Unzip and Load into GCS bucket, Transform and clean it, Load into BigQuery
-- NYC_Queries.sql : Sql queries that are used to gain some insights from the data
+- NYC_Queries.sql : Sql queries that are used to gain some insights from the data.
 
 
 ## Programming/Query Language
